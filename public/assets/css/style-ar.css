@@ -1,0 +1,66 @@
+#header {
+    direction: rtl;
+
+   }
+   #header .logo {
+    float: right;
+    margin-left: auto!important;
+
+}
+.d-lg-block {
+    /* display: block!important; */
+    float: left;
+    text-align: right;
+}
+p ,h1, h2, h3, h4 ,h5, h6, a{
+        direction: rtl;
+            font-family: 'Cairo', sans-serif;
+}
+
+.et_pb_section_1.et_pb_section {
+text-align: right;
+}
+.et_pb_text_1 h5 {
+text-align: right;
+
+}
+.et_pb_text_1 h2 {
+text-align: right;
+
+}
+.et_pb_text_0 p {
+text-align: right;
+
+}
+.et_pb_bg_layout_dark, .et_pb_bg_layout_dark h1, .et_pb_bg_layout_dark h2, .et_pb_bg_layout_dark h3, .et_pb_bg_layout_dark h4, .et_pb_bg_layout_dark h5, .et_pb_bg_layout_dark h6 {
+    color: #fff!important;
+    margin-top: 30px;
+}
+
+.et_pb_column {
+    text-align: right;
+    }
+    .et_pb_text_inner{
+    text-align: right;
+
+    }
+    .et_pb_text_align_right {
+    text-align: right !important;
+}
+
+.contact .info-wrap {
+
+    direction: rtl;
+}
+
+
+
+.contact .info i {
+    float: right !important;
+}
+
+.rtl{
+      direction: rtl;
+    text-align: right;
+}
+
